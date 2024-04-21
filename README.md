@@ -1,5 +1,11 @@
 # KittenHouse *.clk files Parser
 
+[![Latest Stable Version](https://poser.pugx.org/xepozz/clk-parser/v/stable.svg)](https://packagist.org/packages/xepozz/clk-parser)
+[![Total Downloads](https://poser.pugx.org/xepozz/clk-parser/downloads.svg)](https://packagist.org/packages/xepozz/clk-parser)
+[![phpunit](https://github.com/xepozz/clk-parser/workflows/PHPUnit/badge.svg)](https://github.com/xepozz/clk-parser/actions)
+[![codecov](https://codecov.io/gh/xepozz/clk-parser/branch/master/graph/badge.svg?token=UREXAOUHTJ)](https://codecov.io/gh/xepozz/clk-parser)
+[![type-coverage](https://shepherd.dev/github/xepozz/clk-parser/coverage.svg)](https://shepherd.dev/github/xepozz/clk-parser)
+
 Parses `*.clk` buffers and presents table name, columns and values as separated entities.
 
 ## Installation
