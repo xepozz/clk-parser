@@ -1,0 +1,4 @@
+# started at 22-Apr-24 08:06:25 # schema.table_name(date,email,event,params)9F9C34E2
+(1111,'email','Startup',[1,2,3]),(2222,'email','Click',[])4CDA8189
+(-1111,'','Shutdown',[-1,'string',3,''])4CDA8189
+
